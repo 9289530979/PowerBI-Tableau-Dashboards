@@ -1,4 +1,3 @@
-
 ## Dashboard Preview
 
-![Dashboard Demo](dashboard.gif)
+![Dashboard Demo](Dashboards-ezgif-com-video-to-gif-converter.gif)

@@ -12,12 +12,6 @@ These dashboards provide actionable insights for business decision-making.
 
 ---
 
-## 🚀 Dashboard Preview
-
-![Dashboard Demo](https://raw.githubusercontent.com/9289530979/PowerBI-Tableau-Dashboards/main/Dashboards-ezgif-com-video-to-gif-converter.gif)
-
----
-
 ## 📌 Project Overview
 
 These dashboards focus on:

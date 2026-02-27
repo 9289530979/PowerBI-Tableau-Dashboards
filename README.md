@@ -13,6 +13,7 @@ These dashboards provide actionable insights for business decision-making.
 
 These dashboards focus on:
 
+- Global Sales Performance and Variance Dashboard
 - Customer and Revenue Analysis
 - Sales Performance Tracking
 - Funnel Conversion Analysis

@@ -1,7 +1,9 @@
 ## Dashboard Preview
 
+<img width="1280" height="719" alt="Dashboard" src="https://github.com/user-attachments/assets/69c958b5-18f4-4fe8-b64a-82b70b7ec82d" />
 
-https://github.com/user-attachments/assets/a6a916fd-e50c-45f2-bd36-ec70b2c37afd
+
+
 
 
 

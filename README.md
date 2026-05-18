@@ -1,5 +1,9 @@
 ## Dashboard Preview
-![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/67633087-5d18-443b-84d4-315f91b52516)
+
+
+https://github.com/user-attachments/assets/a6a916fd-e50c-45f2-bd36-ec70b2c37afd
+
+
 
 
 # 📊 Power BI & Tableau Dashboards
